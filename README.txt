@@ -30,7 +30,7 @@ Descargas
 Usted puede encontrar la versión de desarrollo del paquete ``vtv.web.locales``
 en el `repositorio VTV`_ en Github.com.
 
-.. _`sitio web de Venezolana de Televisión`: http://telesurtv.net/
+.. _`sitio web de Venezolana de Televisión`: http://www.vtv.gob.ve/
 .. _`localizaciones`: http://es.wikipedia.org/wiki/Internacionalización_y_localización
 .. _`collective.nitf`: https://github.com/collective/collective.nitf
 .. _`repositorio VTV`: https://github.com/VTV/vtv.web.locales
